@@ -14,7 +14,7 @@
 <h3>Sobre mim:</h3>
 <ul>
   <li>Sou estudante de Desenvolvimento de Software pela FATEC-PG</li>
-  <li>Estudante com foco em front-end e cybersecurity</li>
+  <li>Estudante com foco em front-end</li>
 </ul>
 
 <div align="center">
